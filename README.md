@@ -2,7 +2,7 @@
 
 <h2>Este projeto eu utilizei somente HTML e CSS.</h2>
 
-<img src="" alt="desktop">
+<img src="https://github.com/lucasfreire9/We-care/blob/main/assets/we-care-desktop.png" alt="desktop">
 <br>
 <br>
-<img src="" alt="mobile">
+<img src="https://github.com/lucasfreire9/We-care/blob/main/assets/we-care-mobile.png" alt="mobile">
